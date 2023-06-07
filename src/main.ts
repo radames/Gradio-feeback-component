@@ -1,7 +1,7 @@
 import styles from './app.css?inline'
 import App from './App.svelte'
 
-class DragGanCanvas extends HTMLElement {
+class ChatFeeback extends HTMLElement {
   constructor() {
     super();
   }
@@ -18,4 +18,4 @@ class DragGanCanvas extends HTMLElement {
   }
 }
 
-customElements.define("draggan-canvas", DragGanCanvas);
+customElements.define("chat-feeback", ChatFeeback);
