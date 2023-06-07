@@ -1,4 +1,4 @@
-# UserControllableLT Gradio Custom Component
+# Simple Gradio Custom Feedback Component
 
 This is a custom Svelte component for [Gradio](https://gradio.app) that works alongside this [Gradio demo app](https://github.com/radames/UserControllableLT/blob/gradio-app/interface/app.py) for UserControllableLT.
 
